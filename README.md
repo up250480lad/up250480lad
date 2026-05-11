@@ -1,16 +1,22 @@
-## Hi there 👋
+## Bienvenidos a mi rpimer repositorio en Git Hub
 
-<!--
-**up250480lad/up250480lad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola! Bienvido a mi perfil. Soy Daniel Lopez Avila, estudiante de la Universidad Politécnica de Aguascalientes
 
-Here are some ideas to get you started:
+### 🎓 Trayectoria Académica
+Actualmente curso la carrera de **Tecnologías de la Información e Innovación Digital**. Mi formación se centra en entender cómo crear software, darle mantenimineto y entender el funcionamiento de las redes y su infraestructura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Pasión por la Programación
+* **Lenguaje Principal:** 🐍 **Python**. Me encanta su versatilidad y la claridad de su sintaxis para resolver problemas complejos mediante algoritmos bien definidos.
+
+### 🎮 Pasatiempos
+Cuando no estoy escribiendo código o estudiando redes y sistemas, me gusta desconectarme en mundos virtuales:
+* **Videojuegos:** Soy un gran entusiasta de los videojuegos, especialmente de **Minecraft**. Me fascina la libertad creativa que ofrece y la posibilidad de construir infraestructuras complejas, lo cual, curiosamente, tiene mucha relación con la arquitectura de sistemas.
+
+---
+
+### 🚀 Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
