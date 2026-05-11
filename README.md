@@ -1,4 +1,4 @@
-## Bienvenidos a mi rpimer repositorio en Git Hub
+## Bienvenidos a mi primer repositorio en Git Hub
 
 ## ¡Hola! Bienvido a mi perfil. Soy Daniel Lopez Avila, estudiante de la Universidad Politécnica de Aguascalientes
 
